@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T16:39:45.658Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LTAWTlHAkw5_tMlkbtVq" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T16:40:03.119Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HFpiIgZKdO6b_mKlXONG" version="20.8.20" type="github">
   <diagram name="Página-1" id="NOlzApEavJSNyuDXf1zl">
     <mxGraphModel dx="1195" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UTMe9Ehtoz6gK4HeQlnw-72" value="Forum" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="605" y="200" width="200" height="180" as="geometry">
+          <mxGeometry x="660" y="200" width="200" height="180" as="geometry">
             <mxRectangle x="610" y="200" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -86,7 +86,7 @@
             <mxPoint x="740" y="380" as="sourcePoint" />
             <mxPoint x="790" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="705" y="400" />
+              <mxPoint x="760" y="400" />
               <mxPoint x="880" y="400" />
             </Array>
           </mxGeometry>
@@ -196,7 +196,7 @@
             <mxPoint x="600" y="440" as="sourcePoint" />
             <mxPoint x="650" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="706" y="400" />
+              <mxPoint x="761" y="400" />
               <mxPoint x="645" y="400" />
             </Array>
           </mxGeometry>
