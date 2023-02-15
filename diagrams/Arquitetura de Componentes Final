@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T17:08:40.447Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="u4OqVH27v9AcDuxs_5it" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T17:09:02.737Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UTxTDrFWsZqdQE5Wk8bw" version="20.8.20" type="github">
   <diagram name="Página-1" id="DKrz6-oPn5o2vylOFlay">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           <mxGeometry x="362" y="131" width="340" height="330" as="geometry" />
         </mxCell>
         <mxCell id="85bIIwfkPNy0TyfzeWIf-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;arcSize=8;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="386" y="476" width="247" height="78" as="geometry" />
+          <mxGeometry x="417" y="476" width="247" height="78" as="geometry" />
         </mxCell>
         <mxCell id="85bIIwfkPNy0TyfzeWIf-10" value="Técnico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="386" y="486" width="90" height="30" as="geometry" />
+          <mxGeometry x="417" y="486" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85bIIwfkPNy0TyfzeWIf-11" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Obter Tópicos Privados&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="382" y="516" width="232" height="30" as="geometry" />
+          <mxGeometry x="413" y="516" width="232" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
