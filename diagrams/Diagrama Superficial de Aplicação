@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T09:51:54.546Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yw8WiJsTA1nF9VL7AysJ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T11:50:00.560Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wZyC1a7u9WYuFqb7W1OW" version="20.8.23" type="github">
   <diagram name="Página-1" id="NOlzApEavJSNyuDXf1zl">
-    <mxGraphModel dx="1647" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,7 +310,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="72kPNbcEKGoGyKg9WzxC-13" value="Perfil" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="138" y="61" width="140" height="210" as="geometry" />
+          <mxGeometry x="138" y="56" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="72kPNbcEKGoGyKg9WzxC-14" value="Imagem de perfil" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="72kPNbcEKGoGyKg9WzxC-13">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
