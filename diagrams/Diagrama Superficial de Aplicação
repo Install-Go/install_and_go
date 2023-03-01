@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T09:00:05.766Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="t5kP5p926vWrBlAyUZ6A" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T09:07:54.852Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZeQT_X7Yyog_R_yfpshL" version="20.8.23" type="github">
   <diagram name="Página-1" id="NOlzApEavJSNyuDXf1zl">
     <mxGraphModel dx="2449" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,6 +380,18 @@
         </mxCell>
         <mxCell id="72kPNbcEKGoGyKg9WzxC-39" value="Email" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="72kPNbcEKGoGyKg9WzxC-37">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="72kPNbcEKGoGyKg9WzxC-43" value="Notificações" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="632" y="-65" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="72kPNbcEKGoGyKg9WzxC-44" value="Lista de notificações" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="72kPNbcEKGoGyKg9WzxC-43">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="72kPNbcEKGoGyKg9WzxC-45" value="Apagar notificação" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="72kPNbcEKGoGyKg9WzxC-43">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="72kPNbcEKGoGyKg9WzxC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTMe9Ehtoz6gK4HeQlnw-33" target="72kPNbcEKGoGyKg9WzxC-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
