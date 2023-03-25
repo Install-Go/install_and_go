@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T15:02:05.974Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-Wep1t8xHYRTYVunEzVu" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T15:03:04.064Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ef8-c4jXF9xP3Bzfwu69" version="21.1.1" type="github">
   <diagram name="Página-1" id="DKrz6-oPn5o2vylOFlay">
     <mxGraphModel dx="1431" dy="775" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           <mxGeometry x="40" y="126" width="300" height="84" as="geometry" />
         </mxCell>
         <mxCell id="85bIIwfkPNy0TyfzeWIf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;arcSize=4;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="382" y="500" width="298" height="250" as="geometry" />
+          <mxGeometry x="379" y="496" width="298" height="250" as="geometry" />
         </mxCell>
         <mxCell id="85bIIwfkPNy0TyfzeWIf-5" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Obter todos os produtos&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Obter detalhes de um produto&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Obter todas as categorias de produtos&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Registar&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Login&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar conta&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ativar conta&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Pedir novo código de ativação de conta&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Pedir nova password&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alterar password&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="370" y="540" width="310" height="210" as="geometry" />
+          <mxGeometry x="367" y="536" width="310" height="210" as="geometry" />
         </mxCell>
         <mxCell id="85bIIwfkPNy0TyfzeWIf-4" value="Utilizador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="395" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="392" y="506" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
